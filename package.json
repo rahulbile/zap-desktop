@@ -219,7 +219,7 @@
     "@ln-zap/prettier-config": "0.1.0",
     "@ln-zap/testcafe-browser-provider-electron": "0.0.15-alpha.3",
     "@storybook/addon-actions": "5.3.18",
-    "@storybook/addon-console": "1.2.1",
+    "@storybook/addon-console": "1.2.2",
     "@storybook/addon-knobs": "5.3.18",
     "@storybook/addon-links": "5.3.18",
     "@storybook/addons": "5.3.18",
